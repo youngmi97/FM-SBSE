@@ -16,6 +16,9 @@ __Java__ v. 1.8
 
 
 ### External JARs (Mac)
+
+Add the following to Project Path (Build Path --> Configure Build Path --> Add External Jar)
+
 __FaMaSDK-1.1.1.jar__ from >fama_test/lib
 
 __commons-lang3-3.9.jar__ from web
