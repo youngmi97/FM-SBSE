@@ -23,7 +23,7 @@ __commons-lang3-3.9.jar__ from web
 
 fama_test
 
-  |__src
+  \__src
   
     |__fama_test
     
@@ -34,7 +34,7 @@ fama_test
       |__ Mutation.java
       
       
-  |__JMETALHOME
+  \__JMETALHOME
   
     |__jmetal.core
     
@@ -44,14 +44,13 @@ fama_test
     
       |__ two_obj.java
       
-      
-  |__ Models
+  \__ Models
   
-  |__ Mutants
+  \__ Mutants
   
-  |__ IndSize.txt
+  \__ IndSize.txt
   
-  |__ plotPareto.py
+  \__ plotPareto.py
   
   
   
