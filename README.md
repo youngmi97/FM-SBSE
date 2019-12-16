@@ -1,5 +1,5 @@
 # FM-SBSE
-CS 454 SBSE Project
+KAIST CS 454 SBSE Project
 
 The following project implements the the
 
@@ -31,3 +31,17 @@ __commons-lang3-3.9.jar__ from web
 - The Mutation.xml applies 12 Mutant operators and produces possible products for each Mutant using FAMA Library
 - The GA is run within __nsgaii_exe__ and __two_obj__ using 'Test Set Size' and 'Mutation Score' two objectives
 
+
+
+## Roles
+### miniFMTS
+Hyo Jun Kim
+
+Jae Hwan Jeong
+
+Seung Hyun Hwang
+
+### MOEA
+Jae Hyung Jo
+
+Seok Hwan Kim
