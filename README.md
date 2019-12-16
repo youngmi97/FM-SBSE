@@ -22,22 +22,37 @@ __commons-lang3-3.9.jar__ from web
 ## Structure
 
 fama_test
+
   |__src
+  
     |__fama_test
+    
       |__ Initiate.java
+      
     |__mutate
+    
       |__ Mutation.java
       
+      
   |__JMETALHOME
+  
     |__jmetal.core
+    
       |__ nsgaii_exe.java
+      
     |__jmetal.problems
+    
       |__ two_obj.java
       
+      
   |__ Models
+  
   |__ Mutants
+  
   |__ IndSize.txt
+  
   |__ plotPareto.py
+  
   
   
   
