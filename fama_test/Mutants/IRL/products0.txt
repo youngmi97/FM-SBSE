@@ -1,0 +1,15 @@
+12
+[james, user_mngt, db, ldap, ws_interface, gui, pc, pda, core, modules, calendar, forum, congress_mngt, repository]
+[forum;modules;pda;calendar;james;core;user_mngt;gui;pc;ws_interface;db;, forum;modules;pda;calendar;james;core;user_mngt;gui;pc;db;, forum;modules;pda;calendar;james;core;user_mngt;gui;pc;ws_interface;ldap;, forum;modules;pda;calendar;james;core;user_mngt;gui;pc;ldap;, modules;pda;calendar;james;core;user_mngt;gui;pc;ws_interface;db;, modules;pda;calendar;james;core;user_mngt;gui;pc;db;, modules;pda;calendar;james;core;user_mngt;gui;pc;ws_interface;ldap;, modules;pda;calendar;james;core;user_mngt;gui;pc;ldap;, forum;modules;pda;james;core;user_mngt;gui;pc;ws_interface;db;, forum;modules;pda;james;core;user_mngt;gui;pc;db;, forum;modules;pda;james;core;user_mngt;gui;pc;ws_interface;ldap;, forum;modules;pda;james;core;user_mngt;gui;pc;ldap;]
+11101111111100
+11100111111100
+11011111111100
+11010111111100
+11101111111000
+11100111111000
+11011111111000
+11010111111000
+11101111110100
+11100111110100
+11011111110100
+11010111110100

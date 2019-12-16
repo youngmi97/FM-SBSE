@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature-model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.tdg-seville.info/benavides/featuremodelling/feature-model.xsd">
+    <feature name="james">
+        <binaryRelation name="">
+                <cardinality max="1" min="1"/>
+                <solitaryFeature name="user_mngt">
+                    <setRelation name="_id_0">
+                        <cardinality max="1" min="1"/>
+                        <groupedFeature name="db"/>
+                        <groupedFeature name="ldap"/>
+                    </setRelation>
+                </solitaryFeature>
+        </binaryRelation>
+        <binaryRelation name="">
+            <cardinality max="1" min="0"/>
+            <solitaryFeature name="ws_interface"/>
+        </binaryRelation>
+        <binaryRelation name="">
+            <cardinality max="1" min="1"/>
+            <solitaryFeature name="gui">
+                <setRelation name="_id_1">
+                    <cardinality max="2" min="1"/>
+                    <groupedFeature name="pc"/>
+                    <groupedFeature name="pda"/>
+                </setRelation>
+            </solitaryFeature>
+        </binaryRelation>
+        <binaryRelation name="">
+            <cardinality max="1" min="1"/>
+            <solitaryFeature name="core"/>
+        </binaryRelation>
+        <binaryRelation name="">
+            <cardinality max="1" min="1"/>
+            <solitaryFeature name="modules">
+<binaryRelation name="">
+<cardinality max="1" min="0"/>
+<solitaryFeature name="calendar"/>
+</binaryRelation>
+<binaryRelation name="">
+<cardinality max="1" min="0"/>
+<solitaryFeature name="forum"/>
+</binaryRelation>
+<binaryRelation name="">
+<cardinality max="1" min="0"/>
+<solitaryFeature name="congress_mngt"/>
+</binaryRelation>
+<binaryRelation name="">
+<cardinality max="1" min="0"/>
+<solitaryFeature name="repository"/>
+</binaryRelation>
+            </solitaryFeature>
+        </binaryRelation>
+    </feature>
+    <excludes excludes="repository" feature="pda" name="c1"/>
+    <requires feature="congress_mngt" name="c2" requires="repository"/>
+</feature-model>

@@ -1,0 +1,37 @@
+34
+[james, user_mngt, db, ldap, ws_interface, gui, pc, pda, core, modules, calendar, forum, congress_mngt, repository]
+[repository;modules;core;db;james;gui;congress_mngt;forum;ws_interface;calendar;pc;user_mngt;, repository;modules;core;james;gui;congress_mngt;forum;ws_interface;calendar;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;congress_mngt;ws_interface;calendar;pc;user_mngt;, repository;modules;core;james;gui;congress_mngt;ws_interface;calendar;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;congress_mngt;forum;ws_interface;pc;user_mngt;, repository;modules;core;james;gui;congress_mngt;forum;ws_interface;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;congress_mngt;ws_interface;pc;user_mngt;, repository;modules;core;james;gui;congress_mngt;ws_interface;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;forum;ws_interface;calendar;pc;user_mngt;, repository;modules;core;james;gui;forum;ws_interface;calendar;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;ws_interface;calendar;pc;user_mngt;, repository;modules;core;james;gui;ws_interface;calendar;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;forum;ws_interface;pc;user_mngt;, repository;modules;core;james;gui;forum;ws_interface;ldap;pc;user_mngt;, repository;modules;core;db;james;gui;ws_interface;pc;user_mngt;, repository;modules;core;james;gui;ws_interface;ldap;pc;user_mngt;, modules;core;db;james;gui;forum;ws_interface;calendar;pc;pda;user_mngt;, modules;core;james;gui;forum;ws_interface;calendar;ldap;pc;pda;user_mngt;, modules;core;db;james;gui;ws_interface;calendar;pc;pda;user_mngt;, modules;core;james;gui;ws_interface;calendar;ldap;pc;pda;user_mngt;, modules;core;db;james;gui;forum;ws_interface;pc;pda;user_mngt;, modules;core;james;gui;forum;ws_interface;ldap;pc;pda;user_mngt;, modules;core;db;james;gui;forum;ws_interface;calendar;pda;user_mngt;, modules;core;james;gui;forum;ws_interface;calendar;ldap;pda;user_mngt;, modules;core;db;james;gui;ws_interface;calendar;pda;user_mngt;, modules;core;james;gui;ws_interface;calendar;ldap;pda;user_mngt;, modules;core;db;james;gui;forum;ws_interface;pda;user_mngt;, modules;core;james;gui;forum;ws_interface;ldap;pda;user_mngt;, modules;core;db;james;gui;forum;ws_interface;calendar;pc;user_mngt;, modules;core;james;gui;forum;ws_interface;calendar;ldap;pc;user_mngt;, modules;core;db;james;gui;ws_interface;calendar;pc;user_mngt;, modules;core;james;gui;ws_interface;calendar;ldap;pc;user_mngt;, modules;core;db;james;gui;forum;ws_interface;pc;user_mngt;, modules;core;james;gui;forum;ws_interface;ldap;pc;user_mngt;]
+11101110111111
+11011110111111
+11101110111011
+11011110111011
+11101110110111
+11011110110111
+11101110110011
+11011110110011
+11101110111101
+11011110111101
+11101110111001
+11011110111001
+11101110110101
+11011110110101
+11101110110001
+11011110110001
+11101111111100
+11011111111100
+11101111111000
+11011111111000
+11101111110100
+11011111110100
+11101101111100
+11011101111100
+11101101111000
+11011101111000
+11101101110100
+11011101110100
+11101110111100
+11011110111100
+11101110111000
+11011110111000
+11101110110100
+11011110110100

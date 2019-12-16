@@ -1,0 +1,37 @@
+34
+[james, user_mngt, db, ldap, ws_interface, gui, pc, pda, core, modules, calendar, forum, congress_mngt, repository]
+[forum;pc;gui;congress_mngt;james;calendar;modules;repository;user_mngt;db;core;, forum;pc;gui;ldap;congress_mngt;james;calendar;modules;repository;user_mngt;core;, pc;gui;congress_mngt;james;calendar;modules;repository;user_mngt;db;core;, pc;gui;ldap;congress_mngt;james;calendar;modules;repository;user_mngt;core;, forum;pc;gui;congress_mngt;james;modules;repository;user_mngt;db;core;, forum;pc;gui;ldap;congress_mngt;james;modules;repository;user_mngt;core;, pc;gui;congress_mngt;james;modules;repository;user_mngt;db;core;, pc;gui;ldap;congress_mngt;james;modules;repository;user_mngt;core;, forum;pc;gui;james;calendar;modules;repository;user_mngt;db;core;, forum;pc;gui;ldap;james;calendar;modules;repository;user_mngt;core;, pc;gui;james;calendar;modules;repository;user_mngt;db;core;, pc;gui;ldap;james;calendar;modules;repository;user_mngt;core;, forum;pc;gui;james;modules;repository;user_mngt;db;core;, forum;pc;gui;ldap;james;modules;repository;user_mngt;core;, pc;gui;james;modules;repository;user_mngt;db;core;, pc;gui;ldap;james;modules;repository;user_mngt;core;, forum;pc;gui;pda;james;calendar;modules;user_mngt;db;core;, forum;pc;gui;ldap;pda;james;calendar;modules;user_mngt;core;, pc;gui;pda;james;calendar;modules;user_mngt;db;core;, pc;gui;ldap;pda;james;calendar;modules;user_mngt;core;, forum;pc;gui;pda;james;modules;user_mngt;db;core;, forum;pc;gui;ldap;pda;james;modules;user_mngt;core;, forum;gui;pda;james;calendar;modules;user_mngt;db;core;, forum;gui;ldap;pda;james;calendar;modules;user_mngt;core;, gui;pda;james;calendar;modules;user_mngt;db;core;, gui;ldap;pda;james;calendar;modules;user_mngt;core;, forum;gui;pda;james;modules;user_mngt;db;core;, forum;gui;ldap;pda;james;modules;user_mngt;core;, forum;pc;gui;james;calendar;modules;user_mngt;db;core;, forum;pc;gui;ldap;james;calendar;modules;user_mngt;core;, pc;gui;james;calendar;modules;user_mngt;db;core;, pc;gui;ldap;james;calendar;modules;user_mngt;core;, forum;pc;gui;james;modules;user_mngt;db;core;, forum;pc;gui;ldap;james;modules;user_mngt;core;]
+11100110111111
+11010110111111
+11100110111011
+11010110111011
+11100110110111
+11010110110111
+11100110110011
+11010110110011
+11100110111101
+11010110111101
+11100110111001
+11010110111001
+11100110110101
+11010110110101
+11100110110001
+11010110110001
+11100111111100
+11010111111100
+11100111111000
+11010111111000
+11100111110100
+11010111110100
+11100101111100
+11010101111100
+11100101111000
+11010101111000
+11100101110100
+11010101110100
+11100110111100
+11010110111100
+11100110111000
+11010110111000
+11100110110100
+11010110110100

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-17T00:59:19</date>
+  <millis>1576511959170</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2019-12-17T00:59:37</date>
+  <millis>1576511977442</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000468</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000469</millis>
+  <sequence>3</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 66071ms</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000469</millis>
+  <sequence>4</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR_*</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000471</millis>
+  <sequence>5</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN_*</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000491</millis>
+  <sequence>6</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: NSGAII 
+Hypervolume: 0.0
+GD         : 0.5270462766947301
+IGD        : 0.5443310539518172
+Spread     : 1.1642852281786338
+Epsilon    : 0.04166666666666663</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000492</millis>
+  <sequence>7</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: SPEA2 
+Hypervolume: 0.0
+GD         : 0.0
+IGD        : 0.0
+Spread     : 1.6
+Epsilon    : 0.0</message>
+</record>
+<record>
+  <date>2019-12-17T01:00:00</date>
+  <millis>1576512000493</millis>
+  <sequence>8</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.pareto_known</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: IBEA 
+Hypervolume: 0.0
+GD         : 0.6319062870042959
+IGD        : 0.8678055195451839
+Spread     : 1.1784527050543754
+Epsilon    : 0.058823529411764705</message>
+</record>
+</log>
