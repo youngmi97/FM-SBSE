@@ -21,7 +21,7 @@ __commons-lang3-3.9.jar__ from web
 
 ## Structure
 
-![Structure](fmts_structure.png =150x)
+![Structure](fmts_structure.png =150px)
   
   
   
