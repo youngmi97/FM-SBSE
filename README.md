@@ -21,10 +21,10 @@ __commons-lang3-3.9.jar__ from web
 
 ## Structure
 
-fama_test
+|__fama_test
 
-  \__src
-  
+  |__src
+ 
     |__fama_test
     
       |__ Initiate.java
@@ -34,7 +34,7 @@ fama_test
       |__ Mutation.java
       
       
-  \__JMETALHOME
+  |__JMETALHOME
   
     |__jmetal.core
     
