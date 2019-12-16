@@ -9,9 +9,10 @@ __FaMa-1.1.2__ (loaded)
 
 __JMetal__ (loaded)
 
-Using __Eclipse__ 2019-09 R (4.13.0)
 
-      __Java__ v. 1.8
+__Eclipse__ 2019-09 R (4.13.0)
+
+__Java__ v. 1.8
 
 
 ### External JARs (Mac)
