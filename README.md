@@ -18,16 +18,12 @@ __commons-lang3-3.9.jar__ from web
 
 
 
-
 ## Structure
 
 <img src="fmts_structure.png" alt="structure" width="300"/>
   
-  
-  
-  
-  
-  
- 
-    
-    
+## Implementation
+- Initialization step creates appropriate mutants for a loaded FM xml
+- The Mutation.xml applies 12 Mutant operators and produces possible products for each Mutant using FAMA Library
+- The GA is run within __nsgaii_exe__ and __two_obj__ using 'Test Set Size' and 'Mutation Score' two objectives
+
