@@ -1,0 +1,91 @@
+james,  user_mngt
+james,  db
+james,  ldap
+james,  ws_interface
+james,  gui
+james,  pc
+james,  pda
+james,  core
+james,  modules
+james,  calendar
+james,  forum
+james,  congress_mngt
+james,  repository
+ user_mngt,  db
+ user_mngt,  ldap
+ user_mngt,  ws_interface
+ user_mngt,  gui
+ user_mngt,  pc
+ user_mngt,  pda
+ user_mngt,  core
+ user_mngt,  modules
+ user_mngt,  calendar
+ user_mngt,  forum
+ user_mngt,  congress_mngt
+ user_mngt,  repository
+ db,  ldap
+ db,  ws_interface
+ db,  gui
+ db,  pc
+ db,  pda
+ db,  core
+ db,  modules
+ db,  calendar
+ db,  forum
+ db,  congress_mngt
+ db,  repository
+ ldap,  ws_interface
+ ldap,  gui
+ ldap,  pc
+ ldap,  pda
+ ldap,  core
+ ldap,  modules
+ ldap,  calendar
+ ldap,  forum
+ ldap,  congress_mngt
+ ldap,  repository
+ ws_interface,  gui
+ ws_interface,  pc
+ ws_interface,  pda
+ ws_interface,  core
+ ws_interface,  modules
+ ws_interface,  calendar
+ ws_interface,  forum
+ ws_interface,  congress_mngt
+ ws_interface,  repository
+ gui,  pc
+ gui,  pda
+ gui,  core
+ gui,  modules
+ gui,  calendar
+ gui,  forum
+ gui,  congress_mngt
+ gui,  repository
+ pc,  pda
+ pc,  core
+ pc,  modules
+ pc,  calendar
+ pc,  forum
+ pc,  congress_mngt
+ pc,  repository
+ pda,  core
+ pda,  modules
+ pda,  calendar
+ pda,  forum
+ pda,  congress_mngt
+ pda,  repository
+ core,  modules
+ core,  calendar
+ core,  forum
+ core,  congress_mngt
+ core,  repository
+ modules,  calendar
+ modules,  forum
+ modules,  congress_mngt
+ modules,  repository
+ calendar,  forum
+ calendar,  congress_mngt
+ calendar,  repository
+ forum,  congress_mngt
+ forum,  repository
+ congress_mngt,  repository

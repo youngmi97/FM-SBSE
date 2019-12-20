@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-20T18:48:34</date>
+  <millis>1576835314700</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2019-12-20T18:48:45</date>
+  <millis>1576835325797</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340381</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340397</millis>
+  <sequence>3</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 40624ms</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340397</millis>
+  <sequence>4</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values of Pareto Front have been writen to file VAR_*</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340414</millis>
+  <sequence>5</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values of Pareto Front have been writen to file FUN_*</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340431</millis>
+  <sequence>6</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives value of Total Population have been writen to file Pop_*</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340471</millis>
+  <sequence>7</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: NSGAII 
+Hypervolume: 0.24999999999999994
+GD         : 0.13579277479288218
+IGD        : 0.055729571359978594
+Spread     : 1.6315140782131725
+Epsilon    : 0.04166666666666663</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340474</millis>
+  <sequence>8</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: SPEA2 
+Hypervolume: 0.09545454545454536
+GD         : 0.11514902309903094
+IGD        : 0.09101849477542781
+Spread     : 1.7769243524260119
+Epsilon    : 0.04166666666666663</message>
+</record>
+<record>
+  <date>2019-12-20T18:49:00</date>
+  <millis>1576835340489</millis>
+  <sequence>9</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.core.three_obj_test</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators: IBEA 
+Hypervolume: 0.4999999999999999
+GD         : 0.012121212121212125
+IGD        : 0.030368111930481015
+Spread     : 1.7692471503180514
+Epsilon    : 0.01470588235294118</message>
+</record>
+</log>
