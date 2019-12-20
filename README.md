@@ -1,7 +1,7 @@
 # FM-SBSE
 KAIST CS 454 SBSE Project
 
-The following project implements the the
+The following project implements the SPL test suite generation using MultiObjective Genetic Algorithm.
 
 ## Dependencies  & Environment
 ### Libraries
@@ -34,7 +34,9 @@ __commons-lang3-3.9.jar__ from web
 - The Mutation.xml applies 12 Mutant operators and produces possible products for each Mutant using FAMA Library
 - The GA is run within __nsgaii_exe__ and __two_obj__ using 'Test Set Size' and 'Mutation Score' two objectives
 
+## Run
 
+JMETALHOME > jmetal.core > three_obj_test.java
 
 ## Roles
 ### miniFMTS
