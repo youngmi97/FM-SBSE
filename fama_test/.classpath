@@ -7,7 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="JMETALHOME"/>
-	<classpathentry kind="lib" path="/Users/jeong7331/Desktop/fama_test/lib/FaMaSDK-1.1.1.jar"/>
 	<classpathentry kind="lib" path="/Users/jeong7331/Desktop/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="lib/FaMaSDK-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
